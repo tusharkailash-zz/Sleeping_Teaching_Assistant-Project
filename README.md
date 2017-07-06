@@ -1,4 +1,4 @@
-# -Sleeping-Teaching-Assistant-Project
+# Sleeping Teaching Assistant #
 A Classical Inter-process Communication and Synchronization problem in Operating Systems
 
 
